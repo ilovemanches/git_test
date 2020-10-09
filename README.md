@@ -1,1 +1,1 @@
-# git_test
+# Repo to practise various git commands
